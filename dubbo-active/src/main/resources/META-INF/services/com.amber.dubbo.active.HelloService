@@ -1,0 +1,4 @@
+amber=com.amber.dubbo.active.impl.AmberHelloServiceImpl
+alina=com.amber.dubbo.active.impl.AlinaHelloServiceImpl
+tony=com.amber.dubbo.active.impl.TonyHelloServiceImpl
+jack=com.amber.dubbo.active.impl.JackHelloServiceImpl

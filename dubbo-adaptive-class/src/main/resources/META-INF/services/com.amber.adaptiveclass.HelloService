@@ -1,0 +1,3 @@
+amber=com.amber.adaptiveclass.Impl.AmberHelloServiceImpl
+alina=com.amber.adaptiveclass.Impl.AlinaHelloServiceImpl
+adaptive=com.amber.adaptiveclass.AdaptiveHelloService

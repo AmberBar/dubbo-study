@@ -1,0 +1,2 @@
+amber=com.amber.dubbo.Impl.AmberHelloServiceImpl
+alina=com.amber.dubbo.Impl.AlinaHelloServiceImpl

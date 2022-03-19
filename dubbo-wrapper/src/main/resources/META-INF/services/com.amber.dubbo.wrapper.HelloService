@@ -1,0 +1,3 @@
+amber=com.amber.dubbo.wrapper.impl.AmberHelloServiceImpl
+alina=com.amber.dubbo.wrapper.impl.AlinaHelloServiceImpl
+wrapper=com.amber.dubbo.wrapper.HelloServiceWrapper
